@@ -1,0 +1,51 @@
+<html>
+
+<head>
+</head>
+
+<body>
+  <script>
+    var token = '%%TOKEN%%';
+    var query = '%%QUERY%%';
+  </script>
+  <script>
+    (function () {
+      var cx = '012001420363575045627:shzt2vkgalo';
+      var gcse = document.createElement('script');
+      gcse.type = 'text/javascript';
+      gcse.async = true;
+      gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gcse, s);
+    })()
+  </script>
+  <div id="search-engine">
+    <gcse:search></gcse:search>
+  </div>
+  <script>
+    function checkForChanges() {
+      var observeThis = document.getElementById('search-engine');
+      // create an observer instance
+      var observer = new MutationObserver(function (mutations) {
+        mutations.forEach(function (mutation) {
+          if (mutation.type === 'childList') {
+            document.getElementsByTagName('input')[0].value = query;
+            document.getElementsByClassName('gsc-search-button-v2')[0].click();
+          }
+        });
+      });
+      var config = {
+        attributes: true,
+        childList: true,
+        characterData: true
+      };
+      observer.observe(observeThis, config);
+    }
+
+    checkForChanges();
+
+
+  </script>
+</body>
+
+</html>

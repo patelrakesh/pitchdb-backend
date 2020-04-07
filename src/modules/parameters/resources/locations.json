@@ -1,0 +1,98 @@
+[
+	{
+		"value" : "northeast",
+		"label" : "Northeast"
+    },
+    {
+		"value" : "newEngland",
+		"label" : "New England"
+    },
+    {
+		"value" : "middleAtlantic",
+		"label" : "Middle Atlantic"
+    },
+    {
+		"value" : "south",
+		"label" : "South"
+    },
+    {
+		"value" : "southAtlantic",
+		"label" : "South Atlantic"
+    },
+    {
+		"value" : "eastSouthCentral",
+		"label" : "East South Central"
+    },
+    {
+		"value" : "westSouthCentral",
+		"label" : "West South Central"
+    },
+    {
+		"value" : "eastNorthCentral",
+		"label" : "East North Central"
+    },
+    {
+		"value" : "westNorthCentral",
+		"label" : "West North Central"
+    },
+    {
+		"value" : "west",
+		"label" : "West"
+    },
+    {
+		"value" : "midwest",
+		"label" : "Midwest"
+    },
+    {
+		"value" : "mountain",
+		"label" : "Mountain"
+    },
+    {
+		"value" : "pacific",
+		"label" : "Pacific"
+    },
+    {
+		"value" : "hawaii",
+		"label" : "Hawaii"
+    },
+    {
+		"value" : "alaska",
+		"label" : "Alaska"
+    },
+    {
+		"value" : "southPacific",
+		"label" : "South Pacific"
+    },
+    {
+		"value" : "asia",
+		"label" : "Asia"
+    },
+    {
+		"value" : "africa",
+		"label" : "Africa"
+    },
+    {
+		"value" : "middleEast",
+		"label" : "Middle East"
+    },
+    {
+		"value" : "europe",
+		"label" : "Europe"
+    },
+    {
+		"value" : "southAmerica",
+		"label" : "South America"
+    },
+    {
+		"value" : "caribbean",
+		"label" : "Caribbean"
+    },
+    {
+		"value" : "mexico",
+		"label" : "Mexico"
+    },
+    {
+		"value" : "canada",
+		"label" : "Canada"
+	}
+]

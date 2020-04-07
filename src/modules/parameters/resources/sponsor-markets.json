@@ -1,0 +1,286 @@
+[
+    {
+      "label": "International",
+      "value": "International"
+    },
+    {
+      "label": "Domestic",
+      "value": "Domestic"
+    },
+    {
+      "label": "Private",
+      "value": "Private"
+    },
+    {
+      "label": "Foreign",
+      "value": "Foreign"
+    },
+    {
+      "label": "Alcoholic",
+      "value": "Alcoholic"
+    },
+    {
+      "label": "Flooring",
+      "value": "Flooring"
+    },
+    {
+      "label": "Lighting",
+      "value": "Lighting"
+    },
+    {
+      "label": "Appliances",
+      "value": "Appliances"
+    },
+    {
+      "label": "Personal Care",
+      "value": "Personal Care"
+    },
+    {
+      "label": "Electronics",
+      "value": "Electronics"
+    },
+    {
+      "label": "Home Improvement",
+      "value": "Home Improvement"
+    },
+    {
+      "label": "Oil",
+      "value": "Oil"
+    },
+    {
+      "label": "Coffee",
+      "value": "Coffee"
+    },
+    {
+      "label": "Supplements",
+      "value": "Supplements"
+    },
+    {
+      "label": "Furniture",
+      "value": "Furniture"
+    },
+    {
+      "label": "Toys",
+      "value": "Toys"
+    },
+    {
+      "label": "Household",
+      "value": "Household"
+    },
+    {
+      "label": "Auto",
+      "value": "Auto"
+    },
+    {
+      "label": "Accessories",
+      "value": "Accessories"
+    },
+    {
+      "label": "Theme park",
+      "value": "Theme park"
+    },
+    {
+      "label": "Clothing",
+      "value": "Clothing"
+    },
+    {
+      "label": "Jewelry",
+      "value": "Jewelry"
+    },
+    {
+      "label": "Shoes",
+      "value": "Shoes"
+    },
+    {
+      "label": "Athletic",
+      "value": "Athletic"
+    },
+    {
+      "label": "Investment",
+      "value": "Investment"
+    },
+    {
+      "label": "Credit Card",
+      "value": "Credit Card"
+    },
+    {
+      "label": "Banking",
+      "value": "Banking"
+    },
+    {
+      "label": "Pet Food",
+      "value": "Pet Food"
+    },
+    {
+      "label": "Casino",
+      "value": "Casino"
+    },
+    {
+      "label": "Hotel",
+      "value": "Hotel"
+    },
+    {
+      "label": "Cruise",
+      "value": "Cruise"
+    },
+    {
+      "label": "Resort",
+      "value": "Resort"
+    },
+    {
+      "label": "Convenience",
+      "value": "Convenience"
+    },
+    {
+      "label": "Discount",
+      "value": "Discount"
+    },
+    {
+      "label": "Outdoor",
+      "value": "Outdoor"
+    },
+    {
+      "label": "Hardware",
+      "value": "Hardware"
+    },
+    {
+      "label": "Grocery",
+      "value": "Grocery"
+    },
+    {
+      "label": "Automotive",
+      "value": "Automotive"
+    },
+    {
+      "label": "Books",
+      "value": "Books"
+    },
+    {
+      "label": "Body Care",
+      "value": "Body Care"
+    },
+    {
+      "label": "Department",
+      "value": "Department"
+    },
+    {
+      "label": "Sporting Goods",
+      "value": "Sporting Goods"
+    },
+    {
+      "label": "Gas",
+      "value": "Gas"
+    },
+    {
+      "label": "Wholesale",
+      "value": "Wholesale"
+    },
+    {
+      "label": "Drugstore",
+      "value": "Drugstore"
+    },
+    {
+      "label": "Motorcycles",
+      "value": "Motorcycles"
+    },
+    {
+      "label": "Auction",
+      "value": "Auction"
+    },
+    {
+      "label": "Eyecare",
+      "value": "Eyecare"
+    },
+    {
+      "label": "Food",
+      "value": "Food"
+    },
+    {
+      "label": "Golf",
+      "value": "Golf"
+    },
+    {
+      "label": "Crafts",
+      "value": "Crafts"
+    },
+    {
+      "label": "Nails",
+      "value": "Nails"
+    },
+    {
+      "label": "Health",
+      "value": "Health"
+    },
+    {
+      "label": "Eyewear",
+      "value": "Eyewear"
+    },
+    {
+      "label": "Office Supplies",
+      "value": "Office Supplies"
+    },
+    {
+      "label": "Pet",
+      "value": "Pet"
+    },
+    {
+      "label": "Rental",
+      "value": "Rental"
+    },
+    {
+      "label": "General",
+      "value": "General"
+    },
+    {
+      "label": "Cosmetics",
+      "value": "Cosmetics"
+    },
+    {
+      "label": "Children",
+      "value": "Children"
+    },
+    {
+      "label": "Farm",
+      "value": "Farm"
+    },
+    {
+      "label": "Online",
+      "value": "Online"
+    },
+    {
+      "label": "Gaming",
+      "value": "Gaming"
+    },
+    {
+      "label": "Software",
+      "value": "Software"
+    },
+    {
+      "label": "Networking",
+      "value": "Networking"
+    },
+    {
+      "label": "GPS",
+      "value": "GPS"
+    },
+    {
+      "label": "Wireless",
+      "value": "Wireless"
+    },
+    {
+      "label": "Rail",
+      "value": "Rail"
+    },
+    {
+      "label": "Public",
+      "value": "Public"
+    },
+    {
+      "label": "Electricity",
+      "value": "Electricity"
+    },
+    {
+      "label": "Gas and Electric",
+      "value": "Gas and Electric"
+    }
+  ]

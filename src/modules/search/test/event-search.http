@@ -1,0 +1,15 @@
+# REST Client tests on https://github.com/tronalddump-io/tronald-app
+@baseUrl = http://localhost:8080
+
+### Get event organizations
+GET {{baseUrl}}/search/event-organizations
+    ?keywords=arts
+    &typeSearch=planner
+    &pagination=false
+Accept: application/hal+json
+Authorization: token <<JWT token>>
+
+### Get event by id
+GET {{baseUrl}}/search/event-organizations/5bc24306de2dda630395c8a6
+Accept: application/hal+json
+Authorization: token <<JWT token>>

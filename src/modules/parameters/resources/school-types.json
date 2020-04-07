@@ -1,0 +1,18 @@
+[
+	{
+		"value" : "elementarySchool",
+		"label" : "Elementary School"
+    },
+    {
+		"value" : "middleSchool",
+		"label" : "Middle School"
+    },
+    {
+		"value" : "juniorHighSchool",
+		"label" : "Junior High School"
+    },
+    {
+		"value" : "highSchool",
+		"label" : "High School"
+    }
+]

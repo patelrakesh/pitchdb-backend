@@ -1,0 +1,29 @@
+# REST Client tests on https://github.com/tronalddump-io/tronald-app
+@baseUrl = http://localhost:8080
+
+### Get local businesses
+GET {{baseUrl}}/search/businesses/local
+    ?keywords=cats
+    &state=CA
+    &pagination=false
+Accept: application/hal+json
+Authorization: token <<JWT token>>
+
+### Get national businesses
+GET {{baseUrl}}/search/businesses/national
+    ?keywords=hobie
+    &state=CA
+    &pagination=false
+Accept: application/hal+json
+Authorization: token <<JWT token>>
+
+### Get businesses descriptions
+GET {{baseUrl}}/search/businesses/descriptions
+    ?q=local
+Accept: application/hal+json
+Authorization: token <<JWT token>>
+
+### Get local business by id
+GET {{baseUrl}}/search/businesses/local/5bc4f9ecde2dda630398a4af
+Accept: application/hal+json
+Authorization: token <<JWT token>>

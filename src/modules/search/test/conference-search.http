@@ -1,0 +1,20 @@
+# REST Client tests on https://github.com/tronalddump-io/tronald-app
+@baseUrl = http://localhost:8080
+
+### Get conferences
+GET {{baseUrl}}/search/conferences/
+    ?keywords=cheese
+    &pagination=false
+Accept: application/hal+json
+Authorization: token <<JWT token>>
+
+### Get conferences categories
+GET {{baseUrl}}/search/conferences/categories
+Accept: application/hal+json
+Authorization: token <<JWT token>>
+
+### Get conferences maxAudience
+GET {{baseUrl}}/search/conferences/maxAudience
+    ?q=local
+Accept: application/hal+json
+Authorization: token <<JWT token>>

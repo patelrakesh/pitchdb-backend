@@ -1,0 +1,10 @@
+[
+	{
+		"value" : "school",
+		"label" : "School"
+    },
+    {
+		"value" : "sponsor",
+		"label" : "Sponsor"
+    }
+]

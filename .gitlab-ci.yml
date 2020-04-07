@@ -1,0 +1,38 @@
+stages:
+  - test
+  - deploy
+
+test:
+  image: node
+  stage: test
+  script:
+    - echo "====== Run integration tests ======"
+    - npm i
+    - npm test
+  environment:
+    name: test
+  only:
+  - test
+
+deploy_prod:
+  image: keymetrics/pm2:6
+  stage: deploy
+  script:
+    - echo "====== Deploy to production server ======"
+    - apk update && apk upgrade
+    - apk add git openssh bash
+    # Add target server`s secret key
+    - mkdir ~/.ssh
+    - echo $TARGET_SERVER_SECRET_KEY_BASE64 | base64 -d > ~/.ssh/id_rsa
+    - chmod 700 ~/.ssh && chmod 600 ~/.ssh/*
+    - echo "Test ssh connection"
+    - ssh -o StrictHostKeyChecking=no -T "$TARGET_SERVER_USER@$TARGET_SERVER_HOST"
+    # Deploy
+    - echo "Setup target server directories"
+    - pm2 deploy ecosystem.config.js production setup 2>&1 || true
+    - echo "make deploy"
+    - pm2 deploy ecosystem.config.js production
+  environment:
+    name: production
+  only:
+  - master

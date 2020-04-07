@@ -1,0 +1,30 @@
+[
+	{
+		"value" : "resort",
+		"label" : "Resort"
+    },
+    {
+		"value" : "casino",
+		"label" : "Casino"
+    },
+    {
+		"value" : "golf",
+		"label" : "Golf"
+    },
+    {
+		"value" : "cruise",
+		"label" : "Cruise"
+    },
+    {
+		"value" : "ski",
+		"label" : "Ski"
+    },
+    {
+		"value" : "convention",
+		"label" : "Convention"
+    },
+    {
+		"value" : "airport",
+		"label" : "Airport"
+    }
+]

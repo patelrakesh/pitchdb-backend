@@ -1,0 +1,20 @@
+# REST Client tests on https://github.com/tronalddump-io/tronald-app
+@baseUrl = http://localhost:8080
+
+### Get parameters job-titles
+GET {{baseUrl}}/search/parameters/job-titles
+    ?q=
+Accept: application/hal+json
+Authorization: token <<JWT token>>
+
+### Get parameters industries
+GET {{baseUrl}}/search/parameters/industries
+    ?q=
+Accept: application/hal+json
+Authorization: token <<JWT token>>
+
+### Get parameters positions
+GET {{baseUrl}}/search/parameters/positions
+    ?q=
+Accept: application/hal+json
+Authorization: token <<JWT token>>

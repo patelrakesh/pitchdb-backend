@@ -1,0 +1,38 @@
+[
+	{
+		"value" : "Communications/Public Relations",
+		"label" : "Communications/Public Relations"
+	},
+	{
+		"value" : "Executive Director",
+		"label" : "Executive Director"
+	},
+	{
+		"value" : "Membership",
+		"label" : "Membership"
+	},
+	{
+		"value" : "Marketing",
+		"label" : "Marketing"
+	},
+	{
+		"value" : "Education",
+		"label" : "Education"
+	},
+	{
+		"value" : "Conventions/Meetings",
+		"label" : "Conventions/Meetings"
+	},
+	{
+		"value" : "Conference Committee Chair",
+		"label" : "Conference Committee Chair"
+	},
+	{
+		"value" : "Chief Executive Officer",
+		"label" : "Chief Executive Officer"
+	},
+	{
+		"value" : "No staff",
+		"label" : "No staff"
+	}
+]

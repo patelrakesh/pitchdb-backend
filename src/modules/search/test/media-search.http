@@ -1,0 +1,22 @@
+# REST Client tests on https://github.com/tronalddump-io/tronald-app
+@baseUrl = http://localhost:8080
+
+### Get media
+GET {{baseUrl}}/search/media/
+    ?keywords=fashion
+    &mediaType=magazine
+    &pagination=false
+Accept: application/hal+json
+Authorization: token <<JWT token>>
+
+### Get media categories
+GET {{baseUrl}}/search/media/positions
+    ?mediaType=magazine
+Accept: application/hal+json
+Authorization: token <<JWT token>>
+
+### Get media maxAudience
+GET {{baseUrl}}/search/media/genres
+    ?mediaType=magazine
+Accept: application/hal+json
+Authorization: token <<JWT token>>

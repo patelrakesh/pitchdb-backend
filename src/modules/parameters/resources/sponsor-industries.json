@@ -1,0 +1,166 @@
+[
+    {
+      "label": "Airlines",
+      "value": "Airlines"
+    },
+    {
+      "label": "Auto Dealer",
+      "value": "Auto Dealer"
+    },
+    {
+      "label": "Auto Manufacturer",
+      "value": "Auto Manufacturer"
+    },
+    {
+      "label": "Auto Rental",
+      "value": "Auto Rental"
+    },
+    {
+      "label": "Beverage",
+      "value": "Beverage"
+    },
+    {
+      "label": "BtoB Products",
+      "value": "BtoB Products"
+    },
+    {
+      "label": "BtoB Services",
+      "value": "BtoB Services"
+    },
+    {
+      "label": "Consumer Products",
+      "value": "Consumer Products"
+    },
+    {
+      "label": "Consumer products",
+      "value": "Consumer products"
+    },
+    {
+      "label": "consumer products",
+      "value": "consumer products"
+    },
+    {
+      "label": "Consumer services",
+      "value": "Consumer services"
+    },
+    {
+      "label": "Defense",
+      "value": "Defense"
+    },
+    {
+      "label": "Entertainment",
+      "value": "Entertainment"
+    },
+    {
+      "label": "Fashion",
+      "value": "Fashion"
+    },
+    {
+      "label": "Financial",
+      "value": "Financial"
+    },
+    {
+      "label": "Food Manufacturer",
+      "value": "Food Manufacturer"
+    },
+    {
+      "label": "Food Service",
+      "value": "Food Service"
+    },
+    {
+      "label": "Fuel",
+      "value": "Fuel"
+    },
+    {
+      "label": "Healthcare",
+      "value": "Healthcare"
+    },
+    {
+      "label": "Hospitality",
+      "value": "Hospitality"
+    },
+    {
+      "label": "Insurance",
+      "value": "Insurance"
+    },
+    {
+      "label": "insurance",
+      "value": "insurance"
+    },
+    {
+      "label": "Lottery & Gaming",
+      "value": "Lottery & Gaming"
+    },
+    {
+      "label": "Mailing & Shipping",
+      "value": "Mailing & Shipping"
+    },
+    {
+      "label": "Manufacturer",
+      "value": "Manufacturer"
+    },
+    {
+      "label": "Media",
+      "value": "Media"
+    },
+    {
+      "label": "media",
+      "value": "media"
+    },
+    {
+      "label": "Motorcycle Manufacturer",
+      "value": "Motorcycle Manufacturer"
+    },
+    {
+      "label": "Online",
+      "value": "Online"
+    },
+    {
+      "label": "Pharmaceuticals",
+      "value": "Pharmaceuticals"
+    },
+    {
+      "label": "pharmaceuticals",
+      "value": "pharmaceuticals"
+    },
+    {
+      "label": "Real Estate",
+      "value": "Real Estate"
+    },
+    {
+      "label": "Restaurant",
+      "value": "Restaurant"
+    },
+    {
+      "label": "Retail",
+      "value": "Retail"
+    },
+    {
+      "label": "retail",
+      "value": "retail"
+    },
+    {
+      "label": "Shipping",
+      "value": "Shipping"
+    },
+    {
+      "label": "Technology",
+      "value": "Technology"
+    },
+    {
+      "label": "Telecommunications",
+      "value": "Telecommunications"
+    },
+    {
+      "label": "telecommunications",
+      "value": "telecommunications"
+    },
+    {
+      "label": "Transportation",
+      "value": "Transportation"
+    },
+    {
+      "label": "Utilities",
+      "value": "Utilities"
+    }
+  ]

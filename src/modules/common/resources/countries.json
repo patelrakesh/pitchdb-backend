@@ -1,0 +1,1232 @@
+[
+  {
+    "refId": "1",
+    "sortname": "AF",
+    "name": "Afghanistan"
+  },
+  {
+    "refId": "2",
+    "sortname": "AL",
+    "name": "Albania"
+  },
+  {
+    "refId": "3",
+    "sortname": "DZ",
+    "name": "Algeria"
+  },
+  {
+    "refId": "4",
+    "sortname": "AS",
+    "name": "American Samoa"
+  },
+  {
+    "refId": "5",
+    "sortname": "AD",
+    "name": "Andorra"
+  },
+  {
+    "refId": "6",
+    "sortname": "AO",
+    "name": "Angola"
+  },
+  {
+    "refId": "7",
+    "sortname": "AI",
+    "name": "Anguilla"
+  },
+  {
+    "refId": "8",
+    "sortname": "AQ",
+    "name": "Antarctica"
+  },
+  {
+    "refId": "9",
+    "sortname": "AG",
+    "name": "Antigua And Barbuda"
+  },
+  {
+    "refId": "10",
+    "sortname": "AR",
+    "name": "Argentina"
+  },
+  {
+    "refId": "11",
+    "sortname": "AM",
+    "name": "Armenia"
+  },
+  {
+    "refId": "12",
+    "sortname": "AW",
+    "name": "Aruba"
+  },
+  {
+    "refId": "13",
+    "sortname": "AU",
+    "name": "Australia"
+  },
+  {
+    "refId": "14",
+    "sortname": "AT",
+    "name": "Austria"
+  },
+  {
+    "refId": "15",
+    "sortname": "AZ",
+    "name": "Azerbaijan"
+  },
+  {
+    "refId": "16",
+    "sortname": "BS",
+    "name": "Bahamas The"
+  },
+  {
+    "refId": "17",
+    "sortname": "BH",
+    "name": "Bahrain"
+  },
+  {
+    "refId": "18",
+    "sortname": "BD",
+    "name": "Bangladesh"
+  },
+  {
+    "refId": "19",
+    "sortname": "BB",
+    "name": "Barbados"
+  },
+  {
+    "refId": "20",
+    "sortname": "BY",
+    "name": "Belarus"
+  },
+  {
+    "refId": "21",
+    "sortname": "BE",
+    "name": "Belgium"
+  },
+  {
+    "refId": "22",
+    "sortname": "BZ",
+    "name": "Belize"
+  },
+  {
+    "refId": "23",
+    "sortname": "BJ",
+    "name": "Benin"
+  },
+  {
+    "refId": "24",
+    "sortname": "BM",
+    "name": "Bermuda"
+  },
+  {
+    "refId": "25",
+    "sortname": "BT",
+    "name": "Bhutan"
+  },
+  {
+    "refId": "26",
+    "sortname": "BO",
+    "name": "Bolivia"
+  },
+  {
+    "refId": "27",
+    "sortname": "BA",
+    "name": "Bosnia and Herzegovina"
+  },
+  {
+    "refId": "28",
+    "sortname": "BW",
+    "name": "Botswana"
+  },
+  {
+    "refId": "29",
+    "sortname": "BV",
+    "name": "Bouvet Island"
+  },
+  {
+    "refId": "30",
+    "sortname": "BR",
+    "name": "Brazil"
+  },
+  {
+    "refId": "31",
+    "sortname": "IO",
+    "name": "British Indian Ocean Territory"
+  },
+  {
+    "refId": "32",
+    "sortname": "BN",
+    "name": "Brunei"
+  },
+  {
+    "refId": "33",
+    "sortname": "BG",
+    "name": "Bulgaria"
+  },
+  {
+    "refId": "34",
+    "sortname": "BF",
+    "name": "Burkina Faso"
+  },
+  {
+    "refId": "35",
+    "sortname": "BI",
+    "name": "Burundi"
+  },
+  {
+    "refId": "36",
+    "sortname": "KH",
+    "name": "Cambodia"
+  },
+  {
+    "refId": "37",
+    "sortname": "CM",
+    "name": "Cameroon"
+  },
+  {
+    "refId": "38",
+    "sortname": "CA",
+    "name": "Canada"
+  },
+  {
+    "refId": "39",
+    "sortname": "CV",
+    "name": "Cape Verde"
+  },
+  {
+    "refId": "40",
+    "sortname": "KY",
+    "name": "Cayman Islands"
+  },
+  {
+    "refId": "41",
+    "sortname": "CF",
+    "name": "Central African Republic"
+  },
+  {
+    "refId": "42",
+    "sortname": "TD",
+    "name": "Chad"
+  },
+  {
+    "refId": "43",
+    "sortname": "CL",
+    "name": "Chile"
+  },
+  {
+    "refId": "44",
+    "sortname": "CN",
+    "name": "China"
+  },
+  {
+    "refId": "45",
+    "sortname": "CX",
+    "name": "Christmas Island"
+  },
+  {
+    "refId": "46",
+    "sortname": "CC",
+    "name": "Cocos (Keeling) Islands"
+  },
+  {
+    "refId": "47",
+    "sortname": "CO",
+    "name": "Colombia"
+  },
+  {
+    "refId": "48",
+    "sortname": "KM",
+    "name": "Comoros"
+  },
+  {
+    "refId": "49",
+    "sortname": "CG",
+    "name": "Congo"
+  },
+  {
+    "refId": "50",
+    "sortname": "CD",
+    "name": "Congo The Democratic Republic Of The"
+  },
+  {
+    "refId": "51",
+    "sortname": "CK",
+    "name": "Cook Islands"
+  },
+  {
+    "refId": "52",
+    "sortname": "CR",
+    "name": "Costa Rica"
+  },
+  {
+    "refId": "53",
+    "sortname": "CI",
+    "name": "Cote D''Ivoire (Ivory Coast)"
+  },
+  {
+    "refId": "54",
+    "sortname": "HR",
+    "name": "Croatia (Hrvatska)"
+  },
+  {
+    "refId": "55",
+    "sortname": "CU",
+    "name": "Cuba"
+  },
+  {
+    "refId": "56",
+    "sortname": "CY",
+    "name": "Cyprus"
+  },
+  {
+    "refId": "57",
+    "sortname": "CZ",
+    "name": "Czech Republic"
+  },
+  {
+    "refId": "58",
+    "sortname": "DK",
+    "name": "Denmark"
+  },
+  {
+    "refId": "59",
+    "sortname": "DJ",
+    "name": "Djibouti"
+  },
+  {
+    "refId": "60",
+    "sortname": "DM",
+    "name": "Dominica"
+  },
+  {
+    "refId": "61",
+    "sortname": "DO",
+    "name": "Dominican Republic"
+  },
+  {
+    "refId": "62",
+    "sortname": "TP",
+    "name": "East Timor"
+  },
+  {
+    "refId": "63",
+    "sortname": "EC",
+    "name": "Ecuador"
+  },
+  {
+    "refId": "64",
+    "sortname": "EG",
+    "name": "Egypt"
+  },
+  {
+    "refId": "65",
+    "sortname": "SV",
+    "name": "El Salvador"
+  },
+  {
+    "refId": "66",
+    "sortname": "GQ",
+    "name": "Equatorial Guinea"
+  },
+  {
+    "refId": "67",
+    "sortname": "ER",
+    "name": "Eritrea"
+  },
+  {
+    "refId": "68",
+    "sortname": "EE",
+    "name": "Estonia"
+  },
+  {
+    "refId": "69",
+    "sortname": "ET",
+    "name": "Ethiopia"
+  },
+  {
+    "refId": "70",
+    "sortname": "XA",
+    "name": "External Territories of Australia"
+  },
+  {
+    "refId": "71",
+    "sortname": "FK",
+    "name": "Falkland Islands"
+  },
+  {
+    "refId": "72",
+    "sortname": "FO",
+    "name": "Faroe Islands"
+  },
+  {
+    "refId": "73",
+    "sortname": "FJ",
+    "name": "Fiji Islands"
+  },
+  {
+    "refId": "74",
+    "sortname": "FI",
+    "name": "Finland"
+  },
+  {
+    "refId": "75",
+    "sortname": "FR",
+    "name": "France"
+  },
+  {
+    "refId": "76",
+    "sortname": "GF",
+    "name": "French Guiana"
+  },
+  {
+    "refId": "77",
+    "sortname": "PF",
+    "name": "French Polynesia"
+  },
+  {
+    "refId": "78",
+    "sortname": "TF",
+    "name": "French Southern Territories"
+  },
+  {
+    "refId": "79",
+    "sortname": "GA",
+    "name": "Gabon"
+  },
+  {
+    "refId": "80",
+    "sortname": "GM",
+    "name": "Gambia The"
+  },
+  {
+    "refId": "81",
+    "sortname": "GE",
+    "name": "Georgia"
+  },
+  {
+    "refId": "82",
+    "sortname": "DE",
+    "name": "Germany"
+  },
+  {
+    "refId": "83",
+    "sortname": "GH",
+    "name": "Ghana"
+  },
+  {
+    "refId": "84",
+    "sortname": "GI",
+    "name": "Gibraltar"
+  },
+  {
+    "refId": "85",
+    "sortname": "GR",
+    "name": "Greece"
+  },
+  {
+    "refId": "86",
+    "sortname": "GL",
+    "name": "Greenland"
+  },
+  {
+    "refId": "87",
+    "sortname": "GD",
+    "name": "Grenada"
+  },
+  {
+    "refId": "88",
+    "sortname": "GP",
+    "name": "Guadeloupe"
+  },
+  {
+    "refId": "89",
+    "sortname": "GU",
+    "name": "Guam"
+  },
+  {
+    "refId": "90",
+    "sortname": "GT",
+    "name": "Guatemala"
+  },
+  {
+    "refId": "91",
+    "sortname": "XU",
+    "name": "Guernsey and Alderney"
+  },
+  {
+    "refId": "92",
+    "sortname": "GN",
+    "name": "Guinea"
+  },
+  {
+    "refId": "93",
+    "sortname": "GW",
+    "name": "Guinea-Bissau"
+  },
+  {
+    "refId": "94",
+    "sortname": "GY",
+    "name": "Guyana"
+  },
+  {
+    "refId": "95",
+    "sortname": "HT",
+    "name": "Haiti"
+  },
+  {
+    "refId": "96",
+    "sortname": "HM",
+    "name": "Heard and McDonald Islands"
+  },
+  {
+    "refId": "97",
+    "sortname": "HN",
+    "name": "Honduras"
+  },
+  {
+    "refId": "98",
+    "sortname": "HK",
+    "name": "Hong Kong S.A.R."
+  },
+  {
+    "refId": "99",
+    "sortname": "HU",
+    "name": "Hungary"
+  },
+  {
+    "refId": "100",
+    "sortname": "IS",
+    "name": "Iceland"
+  },
+  {
+    "refId": "101",
+    "sortname": "IN",
+    "name": "India"
+  },
+  {
+    "refId": "102",
+    "sortname": "refId",
+    "name": "Indonesia"
+  },
+  {
+    "refId": "103",
+    "sortname": "IR",
+    "name": "Iran"
+  },
+  {
+    "refId": "104",
+    "sortname": "IQ",
+    "name": "Iraq"
+  },
+  {
+    "refId": "105",
+    "sortname": "IE",
+    "name": "Ireland"
+  },
+  {
+    "refId": "106",
+    "sortname": "IL",
+    "name": "Israel"
+  },
+  {
+    "refId": "107",
+    "sortname": "IT",
+    "name": "Italy"
+  },
+  {
+    "refId": "108",
+    "sortname": "JM",
+    "name": "Jamaica"
+  },
+  {
+    "refId": "109",
+    "sortname": "JP",
+    "name": "Japan"
+  },
+  {
+    "refId": "110",
+    "sortname": "XJ",
+    "name": "Jersey"
+  },
+  {
+    "refId": "111",
+    "sortname": "JO",
+    "name": "Jordan"
+  },
+  {
+    "refId": "112",
+    "sortname": "KZ",
+    "name": "Kazakhstan"
+  },
+  {
+    "refId": "113",
+    "sortname": "KE",
+    "name": "Kenya"
+  },
+  {
+    "refId": "114",
+    "sortname": "KI",
+    "name": "Kiribati"
+  },
+  {
+    "refId": "115",
+    "sortname": "KP",
+    "name": "Korea North"
+  },
+  {
+    "refId": "116",
+    "sortname": "KR",
+    "name": "Korea South"
+  },
+  {
+    "refId": "117",
+    "sortname": "KW",
+    "name": "Kuwait"
+  },
+  {
+    "refId": "118",
+    "sortname": "KG",
+    "name": "Kyrgyzstan"
+  },
+  {
+    "refId": "119",
+    "sortname": "LA",
+    "name": "Laos"
+  },
+  {
+    "refId": "120",
+    "sortname": "LV",
+    "name": "Latvia"
+  },
+  {
+    "refId": "121",
+    "sortname": "LB",
+    "name": "Lebanon"
+  },
+  {
+    "refId": "122",
+    "sortname": "LS",
+    "name": "Lesotho"
+  },
+  {
+    "refId": "123",
+    "sortname": "LR",
+    "name": "Liberia"
+  },
+  {
+    "refId": "124",
+    "sortname": "LY",
+    "name": "Libya"
+  },
+  {
+    "refId": "125",
+    "sortname": "LI",
+    "name": "Liechtenstein"
+  },
+  {
+    "refId": "126",
+    "sortname": "LT",
+    "name": "Lithuania"
+  },
+  {
+    "refId": "127",
+    "sortname": "LU",
+    "name": "Luxembourg"
+  },
+  {
+    "refId": "128",
+    "sortname": "MO",
+    "name": "Macau S.A.R."
+  },
+  {
+    "refId": "129",
+    "sortname": "MK",
+    "name": "Macedonia"
+  },
+  {
+    "refId": "130",
+    "sortname": "MG",
+    "name": "Madagascar"
+  },
+  {
+    "refId": "131",
+    "sortname": "MW",
+    "name": "Malawi"
+  },
+  {
+    "refId": "132",
+    "sortname": "MY",
+    "name": "Malaysia"
+  },
+  {
+    "refId": "133",
+    "sortname": "MV",
+    "name": "Maldives"
+  },
+  {
+    "refId": "134",
+    "sortname": "ML",
+    "name": "Mali"
+  },
+  {
+    "refId": "135",
+    "sortname": "MT",
+    "name": "Malta"
+  },
+  {
+    "refId": "136",
+    "sortname": "XM",
+    "name": "Man (Isle of)"
+  },
+  {
+    "refId": "137",
+    "sortname": "MH",
+    "name": "Marshall Islands"
+  },
+  {
+    "refId": "138",
+    "sortname": "MQ",
+    "name": "Martinique"
+  },
+  {
+    "refId": "139",
+    "sortname": "MR",
+    "name": "Mauritania"
+  },
+  {
+    "refId": "140",
+    "sortname": "MU",
+    "name": "Mauritius"
+  },
+  {
+    "refId": "141",
+    "sortname": "YT",
+    "name": "Mayotte"
+  },
+  {
+    "refId": "142",
+    "sortname": "MX",
+    "name": "Mexico"
+  },
+  {
+    "refId": "143",
+    "sortname": "FM",
+    "name": "Micronesia"
+  },
+  {
+    "refId": "144",
+    "sortname": "MD",
+    "name": "Moldova"
+  },
+  {
+    "refId": "145",
+    "sortname": "MC",
+    "name": "Monaco"
+  },
+  {
+    "refId": "146",
+    "sortname": "MN",
+    "name": "Mongolia"
+  },
+  {
+    "refId": "147",
+    "sortname": "MS",
+    "name": "Montserrat"
+  },
+  {
+    "refId": "148",
+    "sortname": "MA",
+    "name": "Morocco"
+  },
+  {
+    "refId": "149",
+    "sortname": "MZ",
+    "name": "Mozambique"
+  },
+  {
+    "refId": "150",
+    "sortname": "MM",
+    "name": "Myanmar"
+  },
+  {
+    "refId": "151",
+    "sortname": "NA",
+    "name": "Namibia"
+  },
+  {
+    "refId": "152",
+    "sortname": "NR",
+    "name": "Nauru"
+  },
+  {
+    "refId": "153",
+    "sortname": "NP",
+    "name": "Nepal"
+  },
+  {
+    "refId": "154",
+    "sortname": "AN",
+    "name": "Netherlands Antilles"
+  },
+  {
+    "refId": "155",
+    "sortname": "NL",
+    "name": "Netherlands The"
+  },
+  {
+    "refId": "156",
+    "sortname": "NC",
+    "name": "New Caledonia"
+  },
+  {
+    "refId": "157",
+    "sortname": "NZ",
+    "name": "New Zealand"
+  },
+  {
+    "refId": "158",
+    "sortname": "NI",
+    "name": "Nicaragua"
+  },
+  {
+    "refId": "159",
+    "sortname": "NE",
+    "name": "Niger"
+  },
+  {
+    "refId": "160",
+    "sortname": "NG",
+    "name": "Nigeria"
+  },
+  {
+    "refId": "161",
+    "sortname": "NU",
+    "name": "Niue"
+  },
+  {
+    "refId": "162",
+    "sortname": "NF",
+    "name": "Norfolk Island"
+  },
+  {
+    "refId": "163",
+    "sortname": "MP",
+    "name": "Northern Mariana Islands"
+  },
+  {
+    "refId": "164",
+    "sortname": "NO",
+    "name": "Norway"
+  },
+  {
+    "refId": "165",
+    "sortname": "OM",
+    "name": "Oman"
+  },
+  {
+    "refId": "166",
+    "sortname": "PK",
+    "name": "Pakistan"
+  },
+  {
+    "refId": "167",
+    "sortname": "PW",
+    "name": "Palau"
+  },
+  {
+    "refId": "168",
+    "sortname": "PS",
+    "name": "Palestinian Territory Occupied"
+  },
+  {
+    "refId": "169",
+    "sortname": "PA",
+    "name": "Panama"
+  },
+  {
+    "refId": "170",
+    "sortname": "PG",
+    "name": "Papua new Guinea"
+  },
+  {
+    "refId": "171",
+    "sortname": "PY",
+    "name": "Paraguay"
+  },
+  {
+    "refId": "172",
+    "sortname": "PE",
+    "name": "Peru"
+  },
+  {
+    "refId": "173",
+    "sortname": "PH",
+    "name": "Philippines"
+  },
+  {
+    "refId": "174",
+    "sortname": "PN",
+    "name": "Pitcairn Island"
+  },
+  {
+    "refId": "175",
+    "sortname": "PL",
+    "name": "Poland"
+  },
+  {
+    "refId": "176",
+    "sortname": "PT",
+    "name": "Portugal"
+  },
+  {
+    "refId": "177",
+    "sortname": "PR",
+    "name": "Puerto Rico"
+  },
+  {
+    "refId": "178",
+    "sortname": "QA",
+    "name": "Qatar"
+  },
+  {
+    "refId": "179",
+    "sortname": "RE",
+    "name": "Reunion"
+  },
+  {
+    "refId": "180",
+    "sortname": "RO",
+    "name": "Romania"
+  },
+  {
+    "refId": "181",
+    "sortname": "RU",
+    "name": "Russia"
+  },
+  {
+    "refId": "182",
+    "sortname": "RW",
+    "name": "Rwanda"
+  },
+  {
+    "refId": "183",
+    "sortname": "SH",
+    "name": "Saint Helena"
+  },
+  {
+    "refId": "184",
+    "sortname": "KN",
+    "name": "Saint Kitts And Nevis"
+  },
+  {
+    "refId": "185",
+    "sortname": "LC",
+    "name": "Saint Lucia"
+  },
+  {
+    "refId": "186",
+    "sortname": "PM",
+    "name": "Saint Pierre and Miquelon"
+  },
+  {
+    "refId": "187",
+    "sortname": "VC",
+    "name": "Saint Vincent And The Grenadines"
+  },
+  {
+    "refId": "188",
+    "sortname": "WS",
+    "name": "Samoa"
+  },
+  {
+    "refId": "189",
+    "sortname": "SM",
+    "name": "San Marino"
+  },
+  {
+    "refId": "190",
+    "sortname": "ST",
+    "name": "Sao Tome and Principe"
+  },
+  {
+    "refId": "191",
+    "sortname": "SA",
+    "name": "Saudi Arabia"
+  },
+  {
+    "refId": "192",
+    "sortname": "SN",
+    "name": "Senegal"
+  },
+  {
+    "refId": "193",
+    "sortname": "RS",
+    "name": "Serbia"
+  },
+  {
+    "refId": "194",
+    "sortname": "SC",
+    "name": "Seychelles"
+  },
+  {
+    "refId": "195",
+    "sortname": "SL",
+    "name": "Sierra Leone"
+  },
+  {
+    "refId": "196",
+    "sortname": "SG",
+    "name": "Singapore"
+  },
+  {
+    "refId": "197",
+    "sortname": "SK",
+    "name": "Slovakia"
+  },
+  {
+    "refId": "198",
+    "sortname": "SI",
+    "name": "Slovenia"
+  },
+  {
+    "refId": "199",
+    "sortname": "XG",
+    "name": "Smaller Territories of the UK"
+  },
+  {
+    "refId": "200",
+    "sortname": "SB",
+    "name": "Solomon Islands"
+  },
+  {
+    "refId": "201",
+    "sortname": "SO",
+    "name": "Somalia"
+  },
+  {
+    "refId": "202",
+    "sortname": "ZA",
+    "name": "South Africa"
+  },
+  {
+    "refId": "203",
+    "sortname": "GS",
+    "name": "South Georgia"
+  },
+  {
+    "refId": "204",
+    "sortname": "SS",
+    "name": "South Sudan"
+  },
+  {
+    "refId": "205",
+    "sortname": "ES",
+    "name": "Spain"
+  },
+  {
+    "refId": "206",
+    "sortname": "LK",
+    "name": "Sri Lanka"
+  },
+  {
+    "refId": "207",
+    "sortname": "SD",
+    "name": "Sudan"
+  },
+  {
+    "refId": "208",
+    "sortname": "SR",
+    "name": "Suriname"
+  },
+  {
+    "refId": "209",
+    "sortname": "SJ",
+    "name": "Svalbard And Jan Mayen Islands"
+  },
+  {
+    "refId": "210",
+    "sortname": "SZ",
+    "name": "Swaziland"
+  },
+  {
+    "refId": "211",
+    "sortname": "SE",
+    "name": "Sweden"
+  },
+  {
+    "refId": "212",
+    "sortname": "CH",
+    "name": "Switzerland"
+  },
+  {
+    "refId": "213",
+    "sortname": "SY",
+    "name": "Syria"
+  },
+  {
+    "refId": "214",
+    "sortname": "TW",
+    "name": "Taiwan"
+  },
+  {
+    "refId": "215",
+    "sortname": "TJ",
+    "name": "Tajikistan"
+  },
+  {
+    "refId": "216",
+    "sortname": "TZ",
+    "name": "Tanzania"
+  },
+  {
+    "refId": "217",
+    "sortname": "TH",
+    "name": "Thailand"
+  },
+  {
+    "refId": "218",
+    "sortname": "TG",
+    "name": "Togo"
+  },
+  {
+    "refId": "219",
+    "sortname": "TK",
+    "name": "Tokelau"
+  },
+  {
+    "refId": "220",
+    "sortname": "TO",
+    "name": "Tonga"
+  },
+  {
+    "refId": "221",
+    "sortname": "TT",
+    "name": "Trinidad And Tobago"
+  },
+  {
+    "refId": "222",
+    "sortname": "TN",
+    "name": "Tunisia"
+  },
+  {
+    "refId": "223",
+    "sortname": "TR",
+    "name": "Turkey"
+  },
+  {
+    "refId": "224",
+    "sortname": "TM",
+    "name": "Turkmenistan"
+  },
+  {
+    "refId": "225",
+    "sortname": "TC",
+    "name": "Turks And Caicos Islands"
+  },
+  {
+    "refId": "226",
+    "sortname": "TV",
+    "name": "Tuvalu"
+  },
+  {
+    "refId": "227",
+    "sortname": "UG",
+    "name": "Uganda"
+  },
+  {
+    "refId": "228",
+    "sortname": "UA",
+    "name": "Ukraine"
+  },
+  {
+    "refId": "229",
+    "sortname": "AE",
+    "name": "United Arab Emirates"
+  },
+  {
+    "refId": "230",
+    "sortname": "GB",
+    "name": "United Kingdom"
+  },
+  {
+    "refId": "231",
+    "sortname": "US",
+    "name": "United States"
+  },
+  {
+    "refId": "232",
+    "sortname": "UM",
+    "name": "United States Minor Outlying Islands"
+  },
+  {
+    "refId": "233",
+    "sortname": "UY",
+    "name": "Uruguay"
+  },
+  {
+    "refId": "234",
+    "sortname": "UZ",
+    "name": "Uzbekistan"
+  },
+  {
+    "refId": "235",
+    "sortname": "VU",
+    "name": "Vanuatu"
+  },
+  {
+    "refId": "236",
+    "sortname": "VA",
+    "name": "Vatican City State (Holy See)"
+  },
+  {
+    "refId": "237",
+    "sortname": "VE",
+    "name": "Venezuela"
+  },
+  {
+    "refId": "238",
+    "sortname": "VN",
+    "name": "Vietnam"
+  },
+  {
+    "refId": "239",
+    "sortname": "VG",
+    "name": "Virgin Islands (British)"
+  },
+  {
+    "refId": "240",
+    "sortname": "VI",
+    "name": "Virgin Islands (US)"
+  },
+  {
+    "refId": "241",
+    "sortname": "WF",
+    "name": "Wallis And Futuna Islands"
+  },
+  {
+    "refId": "242",
+    "sortname": "EH",
+    "name": "Western Sahara"
+  },
+  {
+    "refId": "243",
+    "sortname": "YE",
+    "name": "Yemen"
+  },
+  {
+    "refId": "244",
+    "sortname": "YU",
+    "name": "Yugoslavia"
+  },
+  {
+    "refId": "245",
+    "sortname": "ZM",
+    "name": "Zambia"
+  },
+  {
+    "refId": "246",
+    "sortname": "ZW",
+    "name": "Zimbabwe"
+  }
+]
